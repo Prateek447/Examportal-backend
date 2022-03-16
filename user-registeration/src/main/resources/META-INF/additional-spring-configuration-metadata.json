@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.datasource.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.datasource.generate-ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.generate-ddl'"
+  },
+  {
+    "name": "spring.datasource.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.properties.hibernate.dialect'"
+  },
+  {
+    "name": "spring.datasource.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.show-sql'"
+  }
+]}
