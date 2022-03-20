@@ -7,7 +7,9 @@ spring:
   cloud:
     gateway:
       routes:
-        - id: USER-SERVICE
-          uri: lb:// USER-REGISTERATION
+        - id: USER-REGISTERATION
+          uri: lb://USER-REGISTERATION
           predicates:
             - Path=/user/**
+        
+      
